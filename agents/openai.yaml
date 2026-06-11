@@ -1,0 +1,4 @@
+interface:
+  display_name: "Polanyi Perspective"
+  short_description: "用 Polanyi 视角分析隐性知识、技能传承与科学哲学"
+  default_prompt: "Use $polanyi-perspective to analyze why team SOPs are hard to transfer through documentation alone."
