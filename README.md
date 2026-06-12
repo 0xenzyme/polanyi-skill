@@ -249,6 +249,7 @@ polanyi-skill/
 ├── README.md
 ├── LICENSE
 ├── SKILL.md                              # 可直接安装使用
+├── skill-card.md                         # ClawHub 验证卡片
 ├── assets/                               # 图片资源
 │   └── darwin-optimize-20260502.png      # v1.1 优化成果卡片
 └── references/
